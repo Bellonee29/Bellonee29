@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wajiu Bello Olarewaju</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
+<h3 align="center">A passionate Backend Engineer</h3>
 <h4 align="center">My aim is to apply my skills and creativity to develop technological solutions that positively impack users and businesses."</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bellonee29&label=Profile%20views&color=0e75b6&style=flat" alt="bellonee29" /> </p>
